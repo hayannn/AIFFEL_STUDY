@@ -13,15 +13,16 @@
 ├── 📑 README.md
 └── 🗂 textbook
      └── 🗂 ML
-         ├── 🗂 10장
-         |   ├── 📑 Visualization_Matplotlib.ipynb
-         |   └── 📑 Visualization_Seaborn.ipynb
-         | 
-         └── 🗂 11장
-             ├── 📑 붓꽃_품종)예측.ipynb
-             ├── 📑 사이킷런_기반_프레임워크.ipynb
-             ├── 📑 ModelSection_Module.ipynb
-             ├── 📑 데이터전처리.ipynb
-             └── 📑 사이킷런_이용_타이타닉생존자예측.ipynb
+         ├── 🗂 2장
+         |   ├── 📑 붓꽃_품종)예측.ipynb
+         |   ├── 📑 사이킷런_기반_프레임워크.ipynb
+         |   ├── 📑 ModelSection_Module.ipynb
+         |   ├── 📑 데이터전처리.ipynb
+         |   └── 📑 사이킷런_이용_타이타닉생존자예측.ipynb
+         |
+         └── 🗂 10장
+             ├── 📑 Visualization_Matplotlib.ipynb
+             └── 📑 Visualization_Seaborn.ipynb
+
 
 ```
