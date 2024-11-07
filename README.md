@@ -14,7 +14,7 @@
 └── 🗂 textbook
      └── 🗂 ML
          ├── 🗂 2장
-         |   ├── 📑 붓꽃_품종)예측.ipynb
+         |   ├── 📑 붓꽃_품종_예측.ipynb
          |   ├── 📑 사이킷런_기반_프레임워크.ipynb
          |   ├── 📑 ModelSection_Module.ipynb
          |   ├── 📑 데이터전처리.ipynb
