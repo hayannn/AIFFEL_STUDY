@@ -20,6 +20,13 @@
          |   ├── 📑 데이터전처리.ipynb
          |   └── 📑 사이킷런_이용_타이타닉생존자예측.ipynb
          |
+         ├── 🗂 4장
+         |   ├── 📑 4-1.분류 걔요 & 4-2. 결정 트리.ipynb
+         |   ├── 📑 4-3. 앙상블학습 & 4-4.랜덤포레스트 & 4-5.GBM.ipynb
+         |   ├── 📑 4-6. XGBoost.ipynb
+         |   ├── 📑 4-7. LightGBM.ipynb
+         |   └── 📑 4-8. 베이지안 최적화 기반의 HyperOpt를 이용한 하이퍼 파라미터 튜닝.ipynb
+         |
          └── 🗂 10장
              ├── 📑 Visualization_Matplotlib.ipynb
              └── 📑 Visualization_Seaborn.ipynb
