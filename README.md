@@ -25,7 +25,8 @@
          |   ├── 📑 4-3. 앙상블학습 & 4-4.랜덤포레스트 & 4-5.GBM.ipynb
          |   ├── 📑 4-6. XGBoost.ipynb
          |   ├── 📑 4-7. LightGBM.ipynb
-         |   └── 📑 4-8. 베이지안 최적화 기반의 HyperOpt를 이용한 하이퍼 파라미터 튜닝.ipynb
+         |   ├── 📑 4-8. 베이지안 최적화 기반의 HyperOpt를 이용한 하이퍼 파라미터 튜닝.ipynb
+         |   └── 📑 캐글_산탄데르_고객_만족_예측.ipynb
          |
          └── 🗂 10장
              ├── 📑 Visualization_Matplotlib.ipynb
