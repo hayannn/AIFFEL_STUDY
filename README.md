@@ -31,8 +31,14 @@
          ├── 🗂 5장
          |   ├── 📑 5.1 회귀소개 & 5.2 단순선형회귀 & 5.3 경사하강법 & 5.4 보스턴주택가격예측 & 5.5 다항회귀,과(대)적합/과소적합 & 5.6 릿지,라쏘,엘라스틱넷.ipynb
          |   ├── 📑 5.7 로지스틱 회귀 & 5.8 회귀 트리.ipynb
-         |   ├── 📑 캐글:자전거대여수요예측(Bike Sharing Demand).ipynb
-         |   └── (📑 캐글 주택 가격: 고급회귀기법(Kaggle House Price).ipynb)
+         |   └── 📑 캐글:자전거대여수요예측(Bike Sharing Demand).ipynb
+         |
+         ├── 🗂 7장
+         |   ├── 📑 7.1 KMeans.ipynb
+         |   ├── 📑 7.2 군집평가(Cluster_evaluation).ipynb
+         |   ├── 📑 7.3 평균 이동(Mean_Shift).ipynb
+         |   ├── 📑 7_4_GMM(Gaussian_Mixture_Model).ipynb
+         |   └── 📑 7.5 DBSCAN.ipynb
          |
          └── 🗂 10장
              ├── 📑 Visualization_Matplotlib.ipynb
