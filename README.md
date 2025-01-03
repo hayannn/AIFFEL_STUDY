@@ -3,8 +3,13 @@
 
 <br>
 
-> [교재 정보](https://wikibook.co.kr/pymlrev2/)<br>
-![image](https://github.com/user-attachments/assets/c10ef5ae-6175-4532-8a5e-bfa0062de581)
+> [ML 교재 정보](https://wikibook.co.kr/pymlrev2/)<br>
+<img src="https://github.com/user-attachments/assets/c10ef5ae-6175-4532-8a5e-bfa0062de581" width="300" height="400"><br>
+
+<br>
+
+> [LLM 교재 정보](https://www.yes24.com/product/goods/136548871)<br>
+<img src="https://github.com/user-attachments/assets/2f9e2830-c9a0-4f73-9fc5-e5112a668bbb" width="300" height="400"><br>
 
 <br>
 
@@ -12,6 +17,11 @@
 ```
 ├── 📑 README.md
 └── 🗂 textbook
+     ├── 🗂 LLM
+     |   └── 🗂 Day01
+     |       ├── 📑 Langchain으로_ChatGPT_API_활용하기.ipynb
+     |       └── 📑 PromptTemplate,_LLM_프롬프트_입력을_더_편하게_실습.ipynb
+     |
      └── 🗂 ML
          ├── 🗂 2장
          |   ├── 📑 붓꽃_품종_예측.ipynb
